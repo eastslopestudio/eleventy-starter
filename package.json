@@ -45,7 +45,6 @@
     "postcss-import": "^12.0.1",
     "postcss-nested": "^4.2.3",
     "prettier": "^2.0.5",
-    "svg-sprite": "^1.5.0",
     "tailwindcss": "^1.4.6",
     "terser-webpack-plugin": "^3.0.6",
     "webpack": "^4.43.0",
